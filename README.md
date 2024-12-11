@@ -9,7 +9,7 @@ We will be updating and adding resources for more EDA tools in the near future.
 
 DRC file not available for your EDA tool? NextPCB capabilities can be found here: https://www.nextpcb.com/pcb-capabilities. 
 
-Alternatively, download HQDFM, the PCB design analysis tool by HQ Electronics for a universal check of your files and many other manufacturing-related issues. 
+Alternatively, download HQDFM, the free PCB design analysis tool by HQ Electronics for a universal check of your files and many other manufacturing-related issues. 
 https://www.nextpcb.com/dfm
 
 www.nextpcb.com
