@@ -7,10 +7,12 @@ We have compiled these files to best match our standard operating procedures and
 
 We will be updating and adding resources for more EDA tools in the near future.
 
-DRC file not available for your EDA tool? NextPCB capabilities can be found here: https://www.nextpcb.com/pcb-capabilities. 
+DRC file not available for your EDA tool? NextPCB capabilities can be found here: https://www.nextpcb.com/pcb-capabilities
 
-Alternatively, download HQDFM, the free PCB design analysis tool by HQ Electronics for a universal check of your files and many other manufacturing-related issues. 
+Alternatively, download HQDFM, the free PCB design analysis tool by HQ Electronics for a universal check of your PCB production files and many other manufacturing-related issues. 
 https://www.nextpcb.com/dfm
+
+We strongly suggest using HQDFM to review your design in addition to EDA design rule checks. With HQDFM, you can view the actual production files (Gerber or ODB++) that will be used for manufacture and use HQDFM's analysis algorithms to detect many production related issues not covered by DRCs. 
 
 www.nextpcb.com
  
