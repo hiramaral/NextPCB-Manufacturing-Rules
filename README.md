@@ -14,5 +14,13 @@ https://www.nextpcb.com/dfm
 
 We strongly suggest using HQDFM to review your design in addition to EDA design rule checks. With HQDFM, you can view the actual production files (Gerber or ODB++) that will be used for manufacture and use HQDFM's analysis algorithms to detect many production related issues not covered by DRCs. 
 
+HQDFM also has advanced Design for Assembly (DFA) analysis and footprint checking capabilities for over 6 million parts and growing, as well as other useful production tools such as the panelization tool and impedance calculator.
+
+### About HQ Electronics and NextPCB
+
+Founded in 2011, Shenzhen Huaqiu (HQ) Electronics Co. Ltd., is the world's leading industrial digital manufacturing platform for PCB manufacture, PCB assembly, components distribution, and electronics design verification tools. Their passion for reliable, fast and cost-effective electronics manufacturing services has transformed the industry, streamlining the entire production process and allowing production efficiency and cost-savings to reach record highs without compromising on reliability.
+
+Serving national engineers for over 15 years, HQ Electronics has becoming a household name in providing full-feature multilayer PCBs and PCB assembly services engineers can trust. HQ NextPCB, HQ Electronics's international division, brings these capabilities, speed, affordability and more to clients in over 160 countries.
+
 www.nextpcb.com
  
